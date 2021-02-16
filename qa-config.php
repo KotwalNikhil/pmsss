@@ -34,10 +34,16 @@
 	define('QA_MYSQL_PORT', '3306');
 */
 
-	define('QA_MYSQL_HOSTNAME', '127.0.0.1');
-	define('QA_MYSQL_USERNAME', 'root');
-	define('QA_MYSQL_PASSWORD', '');
-	define('QA_MYSQL_DATABASE', 'pmsssdb');
+	// define('QA_MYSQL_HOSTNAME', '127.0.0.1');
+	// define('QA_MYSQL_USERNAME', 'root');
+	// define('QA_MYSQL_PASSWORD', '');
+	// define('QA_MYSQL_DATABASE', 'pmsssdb');
+
+
+define('QA_MYSQL_HOSTNAME', 'sql113.epizy.com');
+	define('QA_MYSQL_USERNAME', 'epiz_27941955');
+	define('QA_MYSQL_PASSWORD', 'ZeuZ2hhf7uarw');
+	define('QA_MYSQL_DATABASE', 'epiz_27941955_pmsss_db');
 
 /*
 	Ultra-concise installation instructions:
